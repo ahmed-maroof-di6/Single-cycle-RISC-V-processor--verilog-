@@ -1,8 +1,8 @@
-# Single-cycle-RISC-V-processor--verilog-
+# Single-cycle-RISC-V-processor-verilog
 
 
 
-This repository contains the Verilog source code and documentation for a single-cycle RISC-V processor designed to support I, S, R, U, B, and J type instructions. The processor is implemented in Verilog and is intended for educational and research purposes.
+This repository contains the Verilog source code and documentation for a 32 bit single-cycle RISC-V processor designed to support I, S, R, U, B, and J type instructions. The processor is implemented in Verilog and is intended for educational and research purposes.
 
 ## Features
 
@@ -15,7 +15,7 @@ This repository contains the Verilog source code and documentation for a single-
 
 Before you begin, ensure you have met the following requirements:
 
-- A Verilog simulator (e.g., ModelSim, Iverilog, or any other compatible tool).
+- A Verilog simulator (e.g., ModelSim, iverilog, or any other compatible tool).
 - [Optional] FPGA synthesis tools if you want to implement the processor on hardware.
 
 ## Getting Started
@@ -25,4 +25,4 @@ Follow these steps to get the processor up and running:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ahmed-maroof-di6/Single-cycle-RISC-V-processor---verilog-/
+   git clone https://github.com/ahmed-maroof-di6/Single-cycle-RISC-V-processor-verilog/
