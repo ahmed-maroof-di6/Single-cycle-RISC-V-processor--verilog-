@@ -21,6 +21,9 @@ Before you begin, ensure you have met the following requirements:
 
 ## Getting Started
 
+All blocks are made as design files with test benches written in Verilog with the same name as the design file.
+Run and simulate SCP_RSCV_testbench.v
+
 Follow these steps to get the processor up and running:
 
 1. Clone this repository to your local machine:
