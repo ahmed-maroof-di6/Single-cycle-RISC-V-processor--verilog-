@@ -1,6 +1,7 @@
 # Single-cycle-RISC-V-processor-verilog
 
 
+![SCP RISC-V]([link_to_your_logo.png](https://github.com/ahmed-maroof-di6/Single-cycle-RISC-V-processor-verilog/blob/single-cycle-riscv-verilog/SCRVP_diagram.png))
 
 This repository contains the Verilog source code and documentation for a 32 bit single-cycle RISC-V processor designed to support I, S, R, U, B, and J type instructions. The processor is implemented in Verilog and is intended for educational and research purposes.
 
