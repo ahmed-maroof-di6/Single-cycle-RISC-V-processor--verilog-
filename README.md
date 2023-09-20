@@ -1,4 +1,4 @@
-# Single-cycle-RISC-V-processor-verilog
+# Single-Cycle-RISC-V-processor-verilog
 
 
 ![SCP RISC-V](https://github.com/ahmed-maroof-di6/Single-cycle-RISC-V-processor-verilog/blob/single-cycle-riscv-verilog/SCRVP_diagram.png)
