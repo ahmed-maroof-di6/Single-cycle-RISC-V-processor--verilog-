@@ -5,6 +5,9 @@
 
 This repository contains the Verilog source code and documentation for a 32 bit single-cycle RISC-V processor designed to support I, S, R, & SB type instructions. The processor is implemented in Verilog and is intended for educational and research purposes.
 
+## Simulation GTKwave
+![Wave SCRV32](https://github.com/ahmed-maroof-di6/Single-cycle-RISC-V-processor-verilog/blob/single-cycle-riscv-verilog/Simulation%20SCRV32.png)
+
 ## Features
 
 - Support for I, S, R, & SB type instructions as per the RISC-V ISA.
